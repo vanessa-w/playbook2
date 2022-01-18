@@ -332,3 +332,34 @@ nav {
     }
   }
 }
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  margin-bottom: 0px;
+  height: 2.5rem;
+  z-index: 10;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  padding-left: 10px;
+  padding-top: 10px;
+
+  a {
+    display: inline-block;
+    color: $navy;
+    margin-top: 10px;
+    text-decoration: none;
+
+    &:hover,
+    &:focus,
+    &:active {
+      text-decoration-line: underline;
+      text-decoration-color: $accent-a;
+      text-decoration-thickness: 0.1em;
+      color: $navy;
+    }
+  }
+}
