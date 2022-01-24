@@ -3,9 +3,11 @@ title: Contributing to the Playbook
 ---
 ## What you will need
 
-1. A GitHub account
-2. To be invited to the [dxw organisation](https://github.com/dxw)
-3. To be invited to the [staff team](https://github.com/orgs/dxw/teams/staff)
+You will need a GitHub account.
+
+If you are comfortable using GitHub, you can open pull requests on the repository (if you are part of the [dxw organisation](https://github.com/dxw) and the [staff team](https://github.com/orgs/dxw/teams/staff)), or fork the repository and open a pull request from there.
+
+If you prefer a graphic interface, you can use the [Netlify admin interface](https://dxw-playbook-v20.netlify.app/admin), which will open a pull request on your behalf using a branch on the dxw repository (if you are part of the dxw organisation), or by forking the repo into your account.
 
 ## Why GitHub?
 
@@ -47,6 +49,20 @@ GitHub allows us to:
 
 ## Create
 
+### Via Netlify
+
+You can only create new guides.
+
+1. [Log in and authenticate with GitHub](https://dxw-playbook-v20.netlify.app/admin)
+2. Open the [Guides collection](https://dxw-playbook-v20.netlify.app/admin/#/collections/guides)
+3. Click "New Guides"
+4. Add your new content using either markdown or rich text
+5. **Save** your change - do **not** Publish or mark as In Review, because we still want to do a collective review of any changes to the Playbook
+
+Saving the change will automatically create a pull request against the Playbook repository.
+
+### Via Github
+
 1. View the main [GitHub page](https://github.com/dxw/playbook)
 2. Go to the folder where you want to add a new file
 3. Click 'Create new file'
@@ -65,6 +81,17 @@ GitHub allows us to:
    3. Create a pull request
 
 ## Edit
+
+### Via Netlify
+
+1. [Log in and authenticate with GitHub](https://dxw-playbook-v20.netlify.app/admin)
+2. Find the file you want to change, either in the Index collection (which contains a single file, the index page), or in the Guides collection
+3. Make your change using either rich text mode or markdown
+4. **Save** your change - do **not** Publish or mark as In Review, because we still want to do a collective review of any changes to the Playbook
+
+Saving the change will automatically create a pull request against the Playbook repository.
+
+### Via Github
 
 1. Find the file you want to change in [GitHub](https://github.com/dxw/playbook)
 2. Go into edit mode (click the pencil)
