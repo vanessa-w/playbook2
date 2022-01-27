@@ -26,6 +26,8 @@ collections:
 # Site settings
 
 # Build settings
+sass:
+  implementation: sass-embedded
 # plugins:
 
 # Exclude from processing.
