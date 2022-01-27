@@ -26,6 +26,8 @@ collections:
 # Build settings
 sass:
   implementation: sass-embedded
+  load_paths:
+    - node_modules/*
 # plugins:
 
 # Exclude from processing.
