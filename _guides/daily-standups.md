@@ -10,6 +10,8 @@ the way, so that Delivery Leads (and others) try and remove them. Aside from
 what is actually being discussed, standups are also a good opportunity to gauge
 the mood in the team.
 
+hsdgfhjsdgfdsjh
+
 ## Who should join?
 
 Everyone on the delivery team should join standups. This includes service owner,
