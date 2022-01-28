@@ -9,11 +9,6 @@
   }
 }
 
-body {
-  margin: 0;
-  padding: 0;
-}
-
 h1,
 h2,
 h3,
@@ -32,86 +27,6 @@ h6 {
   left: 300px;
   width: 750px;
   margin: 0 auto;
-}
-
-.markdown-section {
-  ol,
-  p,
-  ul {
-    line-height: 1.5;
-    word-spacing: 0;
-  }
-
-  em {
-    color: colours.$navy;
-  }
-
-  blockquote {
-    border-left-color: colours.$accent-b;
-    color: colours.$navy;
-
-    p {
-      color: colours.$navy;
-    }
-  }
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    color: colours.$navy;
-  }
-
-  h1:not(:first-of-type) {
-    margin-top: 2em;
-  }
-
-  h5 {
-    font-size: 1.15rem;
-  }
-
-  a {
-    color: colours.$navy;
-    text-decoration-line: underline;
-    text-decoration-color: colours.$accent-b;
-    text-decoration-thickness: 0.1em;
-    font-weight: 400;
-  }
-
-  p {
-    a {
-      color: inherit;
-
-      &:hover {
-        text-decoration-line: underline;
-        text-decoration-color: colours.$navy;
-        text-decoration-thickness: 0.1em;
-      }
-    }
-  }
-
-  li {
-    margin-bottom: 10px;
-
-    a {
-      color: inherit;
-
-      &:hover {
-        text-decoration-line: underline;
-        text-decoration-color: colours.$navy;
-        text-decoration-thickness: 0.1em;
-      }
-    }
-  }
-
-  code,
-  pre,
-  pre > code {
-    background-color: colours.$navy;
-    color: colours.$ivory;
-  }
 }
 
 .dropdown__title {
