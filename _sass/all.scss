@@ -1,17 +1,7 @@
 @use "normalize.css";
 
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,600&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Cardo:400,700&display=swap");
-
-$navy: #243746;
-$cream: #f3f1e9;
-$ivory: #f9f8f5;
-
-$yellow-light: #fcd672;
-$blue-light: #73c3d5;
-
-$accent-a: $yellow-light;
-$accent-b: $blue-light;
+@use "./colours";
+@use "./typography";
 
 @mixin small-screen {
   @media screen and (max-width: 768px) {
@@ -20,14 +10,8 @@ $accent-b: $blue-light;
 }
 
 body {
-  font-family: Cardo, -apple-system, serif;
-  font-weight: 400;
-  font-size: 15pt;
-  color: $navy;
-  line-height: 1.5;
   margin: 0;
   padding: 0;
-  background: $ivory;
 }
 
 h1,
@@ -36,15 +20,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Poppins, sans-serif;
-  font-weight: 600;
-  color: $navy;
   scroll-margin-top: 80px;
-}
-
-b,
-strong {
-  font-weight: 700;
 }
 
 .content {
@@ -67,15 +43,15 @@ strong {
   }
 
   em {
-    color: $navy;
+    color: colours.$navy;
   }
 
   blockquote {
-    border-left-color: $accent-b;
-    color: $navy;
+    border-left-color: colours.$accent-b;
+    color: colours.$navy;
 
     p {
-      color: $navy;
+      color: colours.$navy;
     }
   }
 
@@ -85,7 +61,7 @@ strong {
   h4,
   h5,
   h6 {
-    color: $navy;
+    color: colours.$navy;
   }
 
   h1:not(:first-of-type) {
@@ -97,9 +73,9 @@ strong {
   }
 
   a {
-    color: $navy;
+    color: colours.$navy;
     text-decoration-line: underline;
-    text-decoration-color: $accent-b;
+    text-decoration-color: colours.$accent-b;
     text-decoration-thickness: 0.1em;
     font-weight: 400;
   }
@@ -110,7 +86,7 @@ strong {
 
       &:hover {
         text-decoration-line: underline;
-        text-decoration-color: $navy;
+        text-decoration-color: colours.$navy;
         text-decoration-thickness: 0.1em;
       }
     }
@@ -124,7 +100,7 @@ strong {
 
       &:hover {
         text-decoration-line: underline;
-        text-decoration-color: $navy;
+        text-decoration-color: colours.$navy;
         text-decoration-thickness: 0.1em;
       }
     }
@@ -133,8 +109,8 @@ strong {
   code,
   pre,
   pre > code {
-    background-color: $navy;
-    color: $ivory;
+    background-color: colours.$navy;
+    color: colours.$ivory;
   }
 }
 
@@ -158,7 +134,7 @@ nav {
 }
 
 .app-nav {
-  background-color: $accent-b;
+  background-color: colours.$accent-b;
   font-family: Poppins, sans-serif;
   font-weight: 600;
 
@@ -193,16 +169,16 @@ nav {
         text-decoration: none;
         text-align: left;
         display: inline-block;
-        color: $navy;
+        color: colours.$navy;
         font-size: 1.125rem;
 
         &:hover,
         &:focus,
         &:active {
           text-decoration-line: underline;
-          text-decoration-color: $accent-a;
+          text-decoration-color: colours.$accent-a;
           text-decoration-thickness: 0.1em;
-          color: $navy;
+          color: colours.$navy;
         }
       }
 
@@ -219,7 +195,7 @@ nav {
 
   .dropdown__menu {
     position: absolute;
-    background-color: $cream;
+    background-color: colours.$cream;
     left: 75%;
 
     border-radius: 4px;
@@ -236,7 +212,7 @@ nav {
     visibility: hidden;
 
     a {
-      color: $navy;
+      color: colours.$navy;
       display: block;
       padding: 0.5em;
     }
@@ -256,8 +232,8 @@ nav {
   position: fixed;
   margin-top: 65px;
   overflow-y: auto;
-  background: $cream;
-  color: $navy;
+  background: colours.$cream;
+  color: colours.$navy;
   z-index: 3;
   padding-top: 0;
   border-right: 0;
@@ -270,7 +246,7 @@ nav {
       margin-bottom: 0.3em;
 
       a {
-        color: $navy;
+        color: colours.$navy;
         font-family: Poppins, sans-serif;
         font-size: 13pt;
 
@@ -278,7 +254,7 @@ nav {
         &:focus,
         > a.active {
           text-decoration-line: underline;
-          text-decoration-color: $accent-b;
+          text-decoration-color: colours.$accent-b;
           text-decoration-thickness: 0.1em;
         }
       }
@@ -286,7 +262,7 @@ nav {
   }
 
   .sidebar-nav {
-    background-color: $cream;
+    background-color: colours.$cream;
     padding-bottom: 0;
     margin: 30px 15px;
 
@@ -333,7 +309,7 @@ nav {
   }
 
   #contribute {
-    background-color: $accent-b;
+    background-color: colours.$accent-b;
     position: fixed;
     bottom: 0px;
     left: 0px;
@@ -348,16 +324,16 @@ nav {
     text-align: center;
 
     a {
-      color: $navy;
+      color: colours.$navy;
       text-decoration: none;
 
       &:hover,
       &:focus,
       &:active {
         text-decoration-line: underline;
-        text-decoration-color: $accent-a;
+        text-decoration-color: colours.$accent-a;
         text-decoration-thickness: 0.1em;
-        color: $navy;
+        color: colours.$navy;
       }
     }
   }
