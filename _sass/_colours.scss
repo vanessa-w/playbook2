@@ -8,6 +8,10 @@ $blue-light: #73c3d5;
 $accent-a: $yellow-light;
 $accent-b: $blue-light;
 
+html {
+  background: $accent-a;
+}
+
 body {
   background: $ivory;
 }
