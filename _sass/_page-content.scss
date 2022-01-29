@@ -1,0 +1,12 @@
+@use "./navbar";
+
+.page-content {
+  flex: 1;
+  padding: navbar.$height 2em 5em;
+  overflow-y: auto;
+
+  > div {
+    margin: 0 auto;
+    max-width: 40em;
+  }
+}

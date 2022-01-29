@@ -1,0 +1,70 @@
+@use "./breakpoints";
+@use "./colours";
+@use "./navbar";
+@use "./typography";
+
+$width: 14em;
+$max-width: 35vw;
+$font-family: typography.$heading-font-family;
+$font-weight: typography.$heading-font-weight;
+$font-size: 1.2em;
+
+.sidebar {
+  display: none;
+  max-width: $max-width;
+  width: $width;
+  padding: navbar.$height 1em 2em;
+  background-color: colours.$cream;
+  overflow-y: auto;
+  font-family: $font-family;
+  font-weight: $font-weight;
+  font-size: $font-size;
+
+  h1 {
+    margin: 1.2em 0;
+    font-size: 1.2em;
+    text-align: center;
+  }
+
+  a {
+    display: block;
+    margin-bottom: 0.5em;
+    padding-left: 2em;
+    text-indent: -2em;
+    text-decoration: none;
+
+    &:hover,
+    &:focus,
+    &:active {
+      text-decoration-line: underline;
+      text-decoration-thickness: 0.15em;
+      text-decoration-color: colours.$accent-b;
+    }
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      margin: 0;
+    }
+  }
+
+  nav > ul {
+    margin-bottom: 1em;
+
+    ul {
+      font-size: 0.85em;
+
+      ul {
+        margin-left: 1em;
+      }
+    }
+  }
+
+  @include breakpoints.on-large-screens {
+    display: block;
+  }
+}
