@@ -21,6 +21,7 @@ defaults:
 collections:
   guides:
     output: true
+    permalink: /:collection/:title
     sort_by: title
 
 # Build settings
