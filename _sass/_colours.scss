@@ -15,3 +15,7 @@ html {
 body {
   background: $ivory;
 }
+
+::selection {
+  background: rgba($accent-a, 0.8);
+}
