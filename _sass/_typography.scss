@@ -11,6 +11,7 @@ $heading-font-weight: 600;
 @import url("https://fonts.googleapis.com/css?family=Cardo:400,700&display=swap");
 
 body {
+  -moz-osx-font-smoothing: grayscale;
   font-family: $body-font-family;
   font-weight: $body-font-weight;
   font-size: 15pt;
