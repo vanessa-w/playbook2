@@ -14,8 +14,8 @@
     <link rel="stylesheet" href="/assets/main.css" />
   </head>
   <body>
+    {% include navbar.html %}
     <main>
-      {% include navbar.html %}
       {% if page.sidebar %}
         {% include sidebar.html %}
       {% endif %}

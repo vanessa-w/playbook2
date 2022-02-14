@@ -8,7 +8,6 @@ $height: 70px; // Manually measured after layout.
   top: 0;
   right: 0;
   left: 0;
-  z-index: 1;
   background-color: colours.$accent-b;
   font-family: typography.$heading-font-family;
   font-weight: typography.$heading-font-weight;
@@ -87,5 +86,5 @@ h3,
 h4,
 h5,
 h6 {
-  scroll-margin-top: calc($height + 1em);
+  scroll-margin-top: 1em;
 }
