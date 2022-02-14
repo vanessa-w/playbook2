@@ -8,7 +8,7 @@
     />
 
     <title>
-      {% if page.title %}{{ page.title | escape }} - {% endif %}dxw Playbook
+      {% if page.title and page.title != "dxw's Playbook" %}{{ page.title | escape }} - {% endif %}Playbook - dxw
     </title>
 
     <link rel="stylesheet" href="/assets/main.css" />
