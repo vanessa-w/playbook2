@@ -4,6 +4,8 @@
   flex: 1;
   padding: 0.5em 2em 5em;
   overflow-y: auto;
+  scroll-behavior: smooth;
+  will-change: scroll-position;
 
   > div {
     margin: 0 auto;
