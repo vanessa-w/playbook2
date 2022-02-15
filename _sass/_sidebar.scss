@@ -1,6 +1,5 @@
 @use "./breakpoints";
 @use "./colours";
-@use "./navbar";
 @use "./typography";
 
 $width: 14em;
@@ -11,9 +10,10 @@ $font-size: 1.2em;
 
 .sidebar {
   display: none;
+  margin-bottom: 2.5em;
   max-width: $max-width;
   width: $width;
-  padding: navbar.$height 1em 2em;
+  padding: 0.5em 1em;
   background-color: colours.$cream;
   overflow-y: auto;
   font-family: $font-family;
