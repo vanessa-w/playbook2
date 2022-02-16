@@ -38,18 +38,6 @@ $height: 70px; // Manually measured after layout.
       &:not(:first-child) {
         margin-left: 2em;
       }
-
-      &.nav-hidden {
-        display: none;
-
-        & + li {
-          margin-left: 0;
-        }
-      }
-    }
-
-    > div {
-      flex: 1;
     }
   }
 

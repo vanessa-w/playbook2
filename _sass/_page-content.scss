@@ -1,7 +1,10 @@
+@use "./breakpoints";
 @use "./colours";
+@use "./sidebar";
 
 .page-content {
   flex: 1;
+  margin-left: sidebar.$small-collapsed-width;
   padding: 0.5em 2em 5em;
   overflow-y: auto;
   scroll-behavior: smooth;
@@ -26,5 +29,9 @@
     :target {
       background: colours.$yellow-light;
     }
+  }
+
+  @include breakpoints.on-large-screens {
+    margin-left: 0;
   }
 }

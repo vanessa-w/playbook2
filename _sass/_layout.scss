@@ -1,4 +1,3 @@
-@use "./breakpoints";
 @use "./navbar";
 
 * {
@@ -10,10 +9,4 @@ main {
   height: calc(100vh - navbar.$height);
   display: flex;
   overflow: hidden;
-}
-
-@include breakpoints.on-large-screens {
-  .small-only {
-    display: none;
-  }
 }
