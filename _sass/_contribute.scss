@@ -19,7 +19,7 @@
   }
 
   @include breakpoints.on-large-screens {
-    max-width: sidebar.$max-width;
-    width: sidebar.$width;
+    max-width: sidebar.$large-max-width;
+    width: sidebar.$large-width;
   }
 }

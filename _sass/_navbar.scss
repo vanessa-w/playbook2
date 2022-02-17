@@ -8,6 +8,7 @@ $height: 70px; // Manually measured after layout.
   top: 0;
   right: 0;
   left: 0;
+  z-index: 1;
   background-color: colours.$accent-b;
   font-family: typography.$heading-font-family;
   font-weight: typography.$heading-font-weight;
