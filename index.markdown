@@ -2219,7 +2219,7 @@ The People and HR team is here to support you during your time at dxw. We provid
 
 We have a CIPD Level 5 trained HR People Manager and an administrator to support the HR and Recruitment function - both of whom are Mental Health First Aid trained. We also have an independent HR advisor to provide additional support when needed.
 
-We have a public slack channel for general non-sensitive questions #dxw-hr-non-confidential which is monitored by the team.
+We have a public slack channel for general non-sensitive questions, #help-hr-non-confidential, which is monitored by the team.
 
 We also have a weekly Ask HR slot at 11am on Wednesdays, to provide a regular opportunity to get advice and support. The door is alway open though, so you can also always book an ad-hoc slot with the HR People Manager to discuss matters you might not feel able to raise with others in your [support path](https://playbook.dxw.com/#support-paths), or that are specialist to the HR function in dxw.
 
