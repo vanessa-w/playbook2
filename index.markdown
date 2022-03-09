@@ -2231,14 +2231,14 @@ The list is not exhaustive but some topics might include:
 * Diversity
 * Expenses
 * Facilitation/scheduling of conversations with Directors/heads-of
-* Grievance & Disciplinary Matters
+* Grievance & disciplinary matters
 * Holiday
 * Inclusivity
 * Interpersonal issues
-* Mental Health First Aid
+* Mental health first aid
 * Occupational health issues
 * Pay (second line of support after line managers)
-* Parental Leave
+* Parental leave
 * Probation
 * Pensions
 * Sickness
