@@ -2087,38 +2087,6 @@ together with your statutory redundancy pay.
 
 ### Supporting your development and wellbeing
 
-#### People manager and HR surgeries
-
-The bi-weekly HR surgeries are there to give an opportunity for members of the
-team to discuss matters they might not feel able to raise with buddies/delivery
-leads/line managers or that are specialist to the HR function in dxw.
-
-The list is not exhaustive but some topics might include:
-
-* Holiday
-* Sickness
-* Pay
-* Expenses
-* Parental Leave
-* Accessibility
-* Probation
-* Pensions
-* Occupational health issues
-* Contractual matters
-* Working patterns/locations
-* Training and career progression
-* Diversity
-* Inclusivity
-* Stress management
-* Interpersonal issues
-* Bereavement
-* Grievance and disciplinary matters
-* Facilitation/scheduling of conversations with Directors/heads-of, such as
-  Salary Reviews
-
-Bookable slots are available on Wednesdays and Fridays at 11am but the People
-Manager’s door is always open.
-
 #### Line managers
 
 Line management at dxw is not about hierarchy, it’s about providing professional
@@ -2245,71 +2213,40 @@ Feel free to make a copy and alter it according to your own needs.
 Here’s a great article on
 [7 ways to prepare for an effective one-on-one meeting with your manager.](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
 
-#### Learning and Development
+#### People and HR Team
 
-Everybody at dxw gets a yearly learning and development allowance of £1,000 and
-up to 4 days.
+The People and HR team is here to support you during your time at dxw. We provide administrative, wellbeing, learning and development, line management and professional support and guidance.
 
-Read the [Learning and Development guide](/guides/learning-and-development) to
-find out more.
+We have a CIPD Level 5 trained HR People Manager and an administrator to support the HR and Recruitment function - both of whom are Mental Health First Aid trained. We also have an independent HR advisor to provide additional support when needed.
 
-Read the [line managers guide](/guides/line-management-guides) to learn about
-how to support Learning and Development for your team members.
+We have a public slack channel for general non-sensitive questions #dxw-hr-non-confidential which is monitored by the team.
 
-#### Private Slack channels
+We also have a weekly Ask HR slot at 11am on Wednesdays, to provide a regular opportunity to get advice and support. The door is alway open though, so you can also always book an ad-hoc slot with the HR People Manager to discuss matters you might not feel able to raise with others in your [support path](https://playbook.dxw.com/#support-paths), or that are specialist to the HR function in dxw.
 
-We encourage everyone at dxw to be open about their identities and the
-challenges they experience at work, but sometimes we want to only talk to people
-whose experiences more closely resemble our own. To enable that, we have created
-a number of private channels:
+The list is not exhaustive but some topics might include:
 
-* \#identity-lgbtqia-plus (contact a member of @identity-lgbtqia-plus-admins to
-  join)
-* \#identity-gender-minority (contact a member of
-  @identity-gender-minority-admins to join)
+* Accessibility
+* Bereavement
+* Contractual matters
+* Diversity
+* Expenses
+* Facilitation/scheduling of conversations with Directors/heads-of
+* Grievance & Disciplinary Matters
+* Holiday
+* Inclusivity
+* Interpersonal issues
+* Mental Health First Aid
+* Occupational health issues
+* Pay (second line of support after line managers)
+* Parental Leave
+* Probation
+* Pensions
+* Sickness
+* Stress management
+* Training and career progression
+* Working patterns/locations
 
-Anyone can create a new one by creating the private channel, creating a user
-group with at least one volunteer (or asking a Slack admin to do it for you),
-and adding it to this list. It's probably a good idea to share that you've
-created it in #general.
-
-The membership of those channels is also private to protect those people, and
-members of a channel are expected to keep everything in those channels private.
-
-We don't police membership of these channels, and trust everyone to be honest
-about their identities. **Don't invite anyone without first asking them if they
-want to be invited.**
-
-#### Book purchase
-
-If there is a book relevant to your work that you would like to read, make a
-request through the #help-purchasing slack channel and the Bus Ops team will buy
-it for the library.
-
-#### Cycle to work scheme
-
-dxw operates a cycle-to-work scheme, which may allow you to purchase a bicycle
-at reduced cost. If you would like to take this up, please register
-[on the cycle scheme website](https://www.cyclescheme.co.uk/18eb71)
-
-#### Eyecare vouchers
-
-dxw provides eyecare for the team via a voucher system run by ASE Corporate
-Eyecare Ltd and Boots.
-
-Details of what the wellbeing voucher offers can be found here:
-[Eyecare for Wellbeing](https://www.eyecareplans.co.uk/corporate-eyecare/eyecare-for-wellbeing/).
-
-[Apply for a wellbeing eyecare voucher](https://gw.eyecareplans.co.uk/dxwe12q2415d3df)
-
-#### Backpack and other personal equipment
-
-dxw will pay for the equipment needed to enable you to work comfortably and
-safely. dxw also offers a budget of £25 towards a work backpack. Use the
-help-purchasing Slack channel to request any equipment you need, or talk to
-anyone in business operations if you are unsure if a purchase will be covered.
-
-#### Support paths
+#### Other Support paths
 
 ##### Helpers
 
@@ -2380,6 +2317,70 @@ about the company and its future. Equally, if you feel you need to escalate
 anything to him, don’t hesitate to get in touch. Dave's diary is open and you
 can see it on Google Calendar. If you would like to schedule some time with him,
 please feel free to book something.
+
+#### Learning and Development
+
+Everybody at dxw gets a yearly learning and development allowance of £1,000 and
+up to 4 days.
+
+Read the [Learning and Development guide](/guides/learning-and-development) to
+find out more.
+
+Read the [line managers guide](/guides/line-management-guides) to learn about
+how to support Learning and Development for your team members.
+
+#### Private Slack channels
+
+We encourage everyone at dxw to be open about their identities and the
+challenges they experience at work, but sometimes we want to only talk to people
+whose experiences more closely resemble our own. To enable that, we have created
+a number of private channels:
+
+* \#identity-lgbtqia-plus (contact a member of @identity-lgbtqia-plus-admins to
+  join)
+* \#identity-gender-minority (contact a member of
+  @identity-gender-minority-admins to join)
+
+Anyone can create a new one by creating the private channel, creating a user
+group with at least one volunteer (or asking a Slack admin to do it for you),
+and adding it to this list. It's probably a good idea to share that you've
+created it in #general.
+
+The membership of those channels is also private to protect those people, and
+members of a channel are expected to keep everything in those channels private.
+
+We don't police membership of these channels, and trust everyone to be honest
+about their identities. **Don't invite anyone without first asking them if they
+want to be invited.**
+
+#### Book purchase
+
+If there is a book relevant to your work that you would like to read, make a
+request through the #help-purchasing slack channel and the Bus Ops team will buy
+it for the library.
+
+#### Cycle to work scheme
+
+dxw operates a cycle-to-work scheme, which may allow you to purchase a bicycle
+at reduced cost. If you would like to take this up, please register
+[on the cycle scheme website](https://www.cyclescheme.co.uk/18eb71)
+
+#### Eyecare vouchers
+
+dxw provides eyecare for the team via a voucher system run by ASE Corporate
+Eyecare Ltd and Boots.
+
+Details of what the wellbeing voucher offers can be found here:
+[Eyecare for Wellbeing](https://www.eyecareplans.co.uk/corporate-eyecare/eyecare-for-wellbeing/).
+
+[Apply for a wellbeing eyecare voucher](https://gw.eyecareplans.co.uk/dxwe12q2415d3df)
+
+#### Backpack and other personal equipment
+
+dxw will pay for the equipment needed to enable you to work comfortably and
+safely. dxw also offers a budget of £25 towards a work backpack. Use the
+help-purchasing Slack channel to request any equipment you need, or talk to
+anyone in business operations if you are unsure if a purchase will be covered.
 
 ### Hiring new people
 
