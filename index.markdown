@@ -2215,7 +2215,7 @@ Here’s a great article on
 
 #### People and HR Team
 
-The People and HR team is here to support you during your time at dxw. We provide administrative, wellbeing, learning and development, line management and professional support and guidance.
+The People and HR team is here to support you during your time at dxw. We provide administrative, wellbeing, learning and development, line manager and professional support and guidance.
 
 We have a CIPD Level 5 trained HR People Manager and an administrator to support the HR and Recruitment function - both of whom are Mental Health First Aid trained. We also have an independent HR advisor to provide additional support when needed.
 
