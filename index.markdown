@@ -2221,7 +2221,7 @@ We have a CIPD Level 5 trained HR People Manager and an administrator to support
 
 We have a public slack channel for general non-sensitive questions, #help-hr-non-confidential, which is monitored by the team.
 
-We also have a weekly Ask HR slot at 11am on Wednesdays, to provide a regular opportunity to get advice and support. The door is alway open though, so you can also always book an ad-hoc slot with the HR People Manager to discuss matters you might not feel able to raise with others in your [support path](https://playbook.dxw.com/#support-paths), or that are specialist to the HR function in dxw.
+We also have a weekly Ask HR slot at 11am on Wednesdays, to provide a regular opportunity to get advice and support. The door is always open though, so you can also always book an ad-hoc slot with the HR People Manager to discuss matters you might not feel able to raise with others in your [support path](https://playbook.dxw.com/#other-support-paths), or that are specialist to the HR function in dxw.
 
 The list is not exhaustive but some topics might include:
 
