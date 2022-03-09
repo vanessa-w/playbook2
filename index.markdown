@@ -2336,7 +2336,7 @@ within the company to support you.
 
 We recommend this person **doesn’t** work directly with you, someone in a
 different role and that you don’t work closely with on projects, as this will
-give you a second pair of ears and a whole new set of experiences to draw on.
+give you a second point of view and a whole new set of experiences to draw on.
 
 This is not mandatory, just recommended and similarly not everyone may wish to
 be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t
@@ -3031,7 +3031,7 @@ Designers at dxw follow these principles:
 
    Becoming stuck when solving problems for long periods of time can be
    frustrating and unproductive. We invite each other to ask for our help when
-   these situations happen as a second pair of eyes with a fresh perspective
+   these situations happen as a second point of view with a fresh perspective
    often unlocks a problem relatively quickly.
 
    Code written by teams sprinting on client work is represented in Trello (or
