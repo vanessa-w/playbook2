@@ -2246,7 +2246,7 @@ The list is not exhaustive but some topics might include:
 * Training and career progression
 * Working patterns/locations
 
-#### Other Support paths
+#### Other support paths
 
 ##### Helpers
 
