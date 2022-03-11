@@ -4,7 +4,11 @@ title: Office accessibility
 ## Leeds
 
 dxw’s headquarter office is at Calls Landing, 36-38 The Calls, Leeds.
-There is a [Leeds Office Guide](https://docs.google.com/document/d/1jHsQJH__2sZssJYZiLqLPyDjZWl5Ixhscx4R-0hMDXs/edit) available if you would like to visit this space. If you need any further information about any features of the office that could impact your access, please contact us at contact@dxw.com.
+There is a [Leeds Office Guide](https://docs.google.com/document/d/1jHsQJH__2sZssJYZiLqLPyDjZWl5Ixhscx4R-0hMDXs/edit) available if you would like to visit this space. 
+
+If you need any support with using this space, post your question in the #leeds-office channel and a member of the team will be able to help. 
+
+If you need any further information about any features of the office that could impact your access, please contact us at contact@dxw.com.
 
 ## London
 
