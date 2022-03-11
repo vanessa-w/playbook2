@@ -14,7 +14,7 @@ dxw has access to a co-working space in central London called Huckletree, locate
 
 If you need any support with using this space, post your question in the #dxw-london-office channel or email shoreditchreception@huckletree.com. 
 
-The nearest tube stations to Huckletree Shoreditch areOld Street, Moorgate and Liverpool Street Underground stations, and is also served by multiple local bus routes. 
+The nearest tube stations to Huckletree Shoreditch are Old Street, Moorgate and Liverpool Street Underground stations. Finsbury Square is also served by multiple local bus routes. 
 
 #### **Hoxton Square**
 
