@@ -957,11 +957,7 @@ and to improve our practices, separate from the clients we work for.
 
 #### Working from home
 
-Generally, we work either at our office or at client sites. But it's usually
-fine to work from home from time to time, or in order to complete a specific
-task. If you're working apart from your team, it is essential that you remain
-contactable and productive, and the onus is on you to be especially
-communicative.
+We are able to work successfully in a remote capacity, from our homes. On occasions, it may be necessary to work from one of our office spaces, a client location or another location approved by dxw  in order to complete a specific task. It is important that you remain contactable and productive. 
 
 #### Reporting your time
 
@@ -1850,16 +1846,7 @@ a phased return to work. If this interests you, please talk to us when applying.
 
 ##### Remote working/location
 
-Generally, we work either at our office or at client sites.
-
-We’re happy to support working from home from a logistical or well-being related
-perspective. While we don’t support fully-remote roles (legacy arrangements
-being the exception), we can look at anything from 1–3 days per week following a
-discussion.
-
-If you need to work from home for a one-off thing then that doesn’t require
-contractual arrangement – just talk about it with your team before the day, make
-sure you note it in your calendar and include it in your standup note that day.
+We are able to work successfully in a remote capacity, from our homes. On occasions, it may be necessary to work from one of our office spaces, a client location or another location approved by dxw  in order to complete a specific task. It is important that you remain contactable and productive. 
 
 ##### Changing your working arrangement
 
