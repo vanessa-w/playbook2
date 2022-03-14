@@ -873,8 +873,7 @@ sign off and publishing of posts. Get in touch through the
 The marketing team run dxw’s
 [official Twitter account](https://twitter.com/dxw).
 
-When we tweet we use the dxw
-[tone of voice](https://playbook.dxw.com/#/guides/tone-of-voice).
+When we tweet we use the dxw [tone of voice](/guides/tone-of-voice).
 
 We encourage people to work openly and to tweet about the work they’re doing,
 their learning and ideas from their own accounts. You should be careful not to
