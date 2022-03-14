@@ -873,8 +873,7 @@ sign off and publishing of posts. Get in touch through the
 The marketing team run dxw’s
 [official Twitter account](https://twitter.com/dxw).
 
-When we tweet we use the dxw
-[tone of voice](https://playbook.dxw.com/#/guides/tone-of-voice).
+When we tweet we use the dxw [tone of voice](/guides/tone-of-voice).
 
 We encourage people to work openly and to tweet about the work they’re doing,
 their learning and ideas from their own accounts. You should be careful not to
@@ -1563,11 +1562,11 @@ of your normal salary.
 As with all company benefits, you will be entitled to Occupational Maternity Pay
 once you are no longer on your probationary period. For the Statutory Maternity
 Pay eligibility criteria, please refer to
-[government eligibility information](https://www.gov.uk/maternity-pay-leave/eligibility).
+[government eligibility information for maternity pay](https://www.gov.uk/maternity-pay-leave/eligibility).
 
 After the 18 weeks, your pay will then reduce to the
-[government statutory rate](https://www.gov.uk/maternity-pay-leave/pay) per week
-for the following 21 weeks.
+[government statutory rate for maternity pay](https://www.gov.uk/maternity-pay-leave/pay)
+per week for the following 21 weeks.
 
 A person giving birth must take at least the first 2 weeks after the birth as
 parental leave.
@@ -1615,11 +1614,11 @@ have 18 weeks of leave on 100% of your normal salary.
 As with all company benefits, you will be entitled to Occupational Adoption Pay
 once you are no longer on your probationary period. For the Statutory Adoption
 Pay eligibility criteria, please refer to
-[government eligibility information](https://www.gov.uk/adoption-pay-leave/eligibility).
+[government eligibility information for adoption pay](https://www.gov.uk/adoption-pay-leave/eligibility).
 
 Your pay will then reduce to the
-[government statutory rate](https://www.gov.uk/adoption-pay-leave/pay) per week
-for the following 21 weeks.
+[government statutory rate for adoption pay](https://www.gov.uk/adoption-pay-leave/pay)
+per week for the following 21 weeks.
 
 Only 1 person in a couple can take
 [statutory adoption leave](https://www.gov.uk/adoption-pay-leave/leave). The
@@ -1658,11 +1657,11 @@ have 18 weeks of leave on 100% of your normal salary.
 As with all company benefits, you will be entitled to Occupational Adoption Pay
 once you are no longer on your probationary period. For the Statutory Adoption
 Pay eligibility criteria, please refer to
-[government eligibility information](https://www.gov.uk/adoption-pay-leave/eligibility).
+[government eligibility information for adoption pay](https://www.gov.uk/adoption-pay-leave/eligibility).
 
 Your pay will then reduce to the
-[government statutory rate](https://www.gov.uk/adoption-pay-leave/pay) per week
-for the following 21 weeks.
+[government statutory rate for adoption pay](https://www.gov.uk/adoption-pay-leave/pay)
+per week for the following 21 weeks.
 
 Only 1 person in a couple can take adoption leave. The other partner could get
 secondary carer leave/pay instead (see secondary carer section below).
@@ -1989,7 +1988,7 @@ faced, the options considered, proposed solution, and a plan for implementation.
 To ensure this is a fair and robust process, it will be reviewed and agreed with
 the Advisory Board/Shareholders, before the following actions are taken:
 
-###### 1. Inform affected employees as soon as their jobs are at risk
+##### 1. Inform affected employees as soon as their jobs are at risk
 
 We will organise a face-to-face meeting to tell you if your job is at risk of
 redundancy. As at the moment we all work remotely, we would organise this by
@@ -1997,7 +1996,7 @@ slack/email, with the meeting held over video conference. If in the future we're
 back in an office, we'd do this in person. We will follow up that meeting with a
 formal ‘at risk’ notification.
 
-###### 2. Consult staff affected about proposals for change
+##### 2. Consult staff affected about proposals for change
 
 For staff at risk, with more than two years service, there is a formal legal
 consultation period, where we ask you to think about our proposals for change,
@@ -2013,7 +2012,7 @@ will consider any redeployment opportunities, or other possible measures to
 avoid redundancy. You would have the right to be accompanied by a work colleague
 or a Trade Union representative.
 
-###### 3. Inform & consult with the wider staff body
+##### 3. Inform & consult with the wider staff body
 
 There is no legal obligation to consult with the wider staff body (unless there
 are more than 20 jobs at risk within a 90 day period), or with at-risk staff
@@ -2027,7 +2026,7 @@ publish a bikeshed, detailing the proposal for change, and asking for feedback.
 An exception to this may arise if an individual role is affected, rather than a
 group, as it may cause more discomfort and anxiety by publishing a bikeshed.
 
-###### 4. Decision on proposal
+##### 4. Decision on proposal
 
 Following consultation, final decisions on the proposal will be taken by the
 Directors. Full consideration will be given to anything arising through the
@@ -2039,7 +2038,7 @@ Where selection for redundancy is confirmed, the affected employee will be given
 written notice of termination in accordance with the terms of their contract.
 The letter will also confirm the right to appeal the decision.
 
-###### 5. Appeal
+##### 5. Appeal
 
 The affected staff members have the right to appeal against the decision to
 terminate their employment on the grounds of redundancy. The appeal should be
@@ -2503,11 +2502,11 @@ vetting due to restrictions in our client contracts.
 
 ### What to expect when joining dxw as an employee
 
-##### Onboarding
+#### Onboarding
 
 After you’ve accepted a role at dxw a member of our HR team will be in touch with you to discuss your laptop, our vetting process and to answer any questions you may have. On your first day you will receive a welcome trello which will tell you who your line manager and helper are, things to read and welcome notes from the team.
 
-##### What your first few days will look like
+#### What your first few days will look like
 
 Below is a rough outline of what to expect from your first two days at dxw.
 
@@ -2546,7 +2545,7 @@ member of the team at the end of the placement, but this isn’t guaranteed.
 Initially this opportunity will only be offered within our London team, with a
 view to including our Leeds office as the team there grows.
 
-##### Who supports you?
+#### Who supports you?
 
 You will be supported by our people team from the point of application.
 
@@ -2562,7 +2561,7 @@ If you join us, you’ll be continuously supported by our people team, a line
 manager and a mentor within the same field. You‘ll have regular check ins with
 the team where you can speak openly about anything that’s on your mind.
 
-##### Client facing role
+#### Client facing role
 
 For client-facing roles we’ll start billing your time back to the client when we
 feel the time is right. This will be something we discuss openly during the

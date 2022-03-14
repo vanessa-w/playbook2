@@ -1,6 +1,6 @@
-<ul class="guides">
+<ul class="guides" role="menu">
   {% for guide in site.guides %}
-  <li>
+  <li role="menuitem">
     <a href="{{ guide.url }}">{{ guide.title }}</a>
   </li>
   {% endfor %}
