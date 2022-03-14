@@ -1988,7 +1988,7 @@ faced, the options considered, proposed solution, and a plan for implementation.
 To ensure this is a fair and robust process, it will be reviewed and agreed with
 the Advisory Board/Shareholders, before the following actions are taken:
 
-###### 1. Inform affected employees as soon as their jobs are at risk
+##### 1. Inform affected employees as soon as their jobs are at risk
 
 We will organise a face-to-face meeting to tell you if your job is at risk of
 redundancy. As at the moment we all work remotely, we would organise this by
@@ -1996,7 +1996,7 @@ slack/email, with the meeting held over video conference. If in the future we're
 back in an office, we'd do this in person. We will follow up that meeting with a
 formal ‘at risk’ notification.
 
-###### 2. Consult staff affected about proposals for change
+##### 2. Consult staff affected about proposals for change
 
 For staff at risk, with more than two years service, there is a formal legal
 consultation period, where we ask you to think about our proposals for change,
@@ -2012,7 +2012,7 @@ will consider any redeployment opportunities, or other possible measures to
 avoid redundancy. You would have the right to be accompanied by a work colleague
 or a Trade Union representative.
 
-###### 3. Inform & consult with the wider staff body
+##### 3. Inform & consult with the wider staff body
 
 There is no legal obligation to consult with the wider staff body (unless there
 are more than 20 jobs at risk within a 90 day period), or with at-risk staff
@@ -2026,7 +2026,7 @@ publish a bikeshed, detailing the proposal for change, and asking for feedback.
 An exception to this may arise if an individual role is affected, rather than a
 group, as it may cause more discomfort and anxiety by publishing a bikeshed.
 
-###### 4. Decision on proposal
+##### 4. Decision on proposal
 
 Following consultation, final decisions on the proposal will be taken by the
 Directors. Full consideration will be given to anything arising through the
@@ -2038,7 +2038,7 @@ Where selection for redundancy is confirmed, the affected employee will be given
 written notice of termination in accordance with the terms of their contract.
 The letter will also confirm the right to appeal the decision.
 
-###### 5. Appeal
+##### 5. Appeal
 
 The affected staff members have the right to appeal against the decision to
 terminate their employment on the grounds of redundancy. The appeal should be
@@ -2502,11 +2502,11 @@ vetting due to restrictions in our client contracts.
 
 ### What to expect when joining dxw as an employee
 
-##### Onboarding
+#### Onboarding
 
 After you’ve accepted a role at dxw a member of our HR team will be in touch with you to discuss your laptop, our vetting process and to answer any questions you may have. On your first day you will receive a welcome trello which will tell you who your line manager and helper are, things to read and welcome notes from the team.
 
-##### What your first few days will look like
+#### What your first few days will look like
 
 Below is a rough outline of what to expect from your first two days at dxw.
 
@@ -2545,7 +2545,7 @@ member of the team at the end of the placement, but this isn’t guaranteed.
 Initially this opportunity will only be offered within our London team, with a
 view to including our Leeds office as the team there grows.
 
-##### Who supports you?
+#### Who supports you?
 
 You will be supported by our people team from the point of application.
 
@@ -2561,7 +2561,7 @@ If you join us, you’ll be continuously supported by our people team, a line
 manager and a mentor within the same field. You‘ll have regular check ins with
 the team where you can speak openly about anything that’s on your mind.
 
-##### Client facing role
+#### Client facing role
 
 For client-facing roles we’ll start billing your time back to the client when we
 feel the time is right. This will be something we discuss openly during the
