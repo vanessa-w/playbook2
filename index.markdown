@@ -1562,11 +1562,11 @@ of your normal salary.
 As with all company benefits, you will be entitled to Occupational Maternity Pay
 once you are no longer on your probationary period. For the Statutory Maternity
 Pay eligibility criteria, please refer to
-[government eligibility information](https://www.gov.uk/maternity-pay-leave/eligibility).
+[government eligibility information for maternity pay](https://www.gov.uk/maternity-pay-leave/eligibility).
 
 After the 18 weeks, your pay will then reduce to the
-[government statutory rate](https://www.gov.uk/maternity-pay-leave/pay) per week
-for the following 21 weeks.
+[government statutory rate for maternity pay](https://www.gov.uk/maternity-pay-leave/pay)
+per week for the following 21 weeks.
 
 A person giving birth must take at least the first 2 weeks after the birth as
 parental leave.
@@ -1614,11 +1614,11 @@ have 18 weeks of leave on 100% of your normal salary.
 As with all company benefits, you will be entitled to Occupational Adoption Pay
 once you are no longer on your probationary period. For the Statutory Adoption
 Pay eligibility criteria, please refer to
-[government eligibility information](https://www.gov.uk/adoption-pay-leave/eligibility).
+[government eligibility information for adoption pay](https://www.gov.uk/adoption-pay-leave/eligibility).
 
 Your pay will then reduce to the
-[government statutory rate](https://www.gov.uk/adoption-pay-leave/pay) per week
-for the following 21 weeks.
+[government statutory rate for adoption pay](https://www.gov.uk/adoption-pay-leave/pay)
+per week for the following 21 weeks.
 
 Only 1 person in a couple can take
 [statutory adoption leave](https://www.gov.uk/adoption-pay-leave/leave). The
@@ -1657,11 +1657,11 @@ have 18 weeks of leave on 100% of your normal salary.
 As with all company benefits, you will be entitled to Occupational Adoption Pay
 once you are no longer on your probationary period. For the Statutory Adoption
 Pay eligibility criteria, please refer to
-[government eligibility information](https://www.gov.uk/adoption-pay-leave/eligibility).
+[government eligibility information for adoption pay](https://www.gov.uk/adoption-pay-leave/eligibility).
 
 Your pay will then reduce to the
-[government statutory rate](https://www.gov.uk/adoption-pay-leave/pay) per week
-for the following 21 weeks.
+[government statutory rate for adoption pay](https://www.gov.uk/adoption-pay-leave/pay)
+per week for the following 21 weeks.
 
 Only 1 person in a couple can take adoption leave. The other partner could get
 secondary carer leave/pay instead (see secondary carer section below).
