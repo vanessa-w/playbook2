@@ -2495,7 +2495,7 @@ Below is a rough outline of what to expect from your first two days at dxw.
 
 * Helper welcome chat
 * Half-day of self-led training (including any help with software)
-* Employee led tasks from the task checklist below
+* Employee led tasks from your Trello 
 
 #### Probation
 
