@@ -959,6 +959,33 @@ and to improve our practices, separate from the clients we work for.
 
 We are able to work successfully in a remote capacity, from our homes. On occasions, it may be necessary to work from one of our office spaces, a client location or another location approved by dxw  in order to complete a specific task. It is important that you remain contactable and productive. 
 
+#### Working from Overseas Policy
+
+dxw is a UK-based business, with staff working from locations around the UK.
+
+We don't support overseas employment unless exceptional circumstances apply. This is because there are usually significant overheads involved in complying with local employment laws, registering for and paying the relevant taxes. 
+
+If you believe there are exceptional circumstances, a request can be made for consideration via your line manager. All decisions must be made by a Director. 
+
+We will take the following factors into account for any cases we consider. 
+
+The legal framework for a decision:
+
+* the individual’s right to work in a particular location 
+* the employer’s obligation to comply with the relevant country’s employment laws, and how complex and costly that is to achieve
+* the employer’s obligation to comply with the relevant country’s taxation rules, and how complex and costly that is to achieve
+
+Operational challenges we need to be comfortable with:
+
+* management of time zones
+* management of a fully remote team member
+* client and contractual procurement needs 
+* the requirements of the role
+
+We would expect individuals to meet any costs (travel, internet, equipment etc) associated with their working overseas. 
+
+dxw will always retain the right to ask you to return to the UK for work with suitable notice, in line with our employment contract.
+
 #### Reporting your time
 
 Everyone who works on a client project at dxw is responsible for reporting the
@@ -2047,38 +2074,6 @@ together with your statutory redundancy pay.
 
 ### Supporting your development and wellbeing
 
-#### People manager and HR surgeries
-
-The bi-weekly HR surgeries are there to give an opportunity for members of the
-team to discuss matters they might not feel able to raise with buddies/delivery
-leads/line managers or that are specialist to the HR function in dxw.
-
-The list is not exhaustive but some topics might include:
-
-* Holiday
-* Sickness
-* Pay
-* Expenses
-* Parental Leave
-* Accessibility
-* Probation
-* Pensions
-* Occupational health issues
-* Contractual matters
-* Working patterns/locations
-* Training and career progression
-* Diversity
-* Inclusivity
-* Stress management
-* Interpersonal issues
-* Bereavement
-* Grievance and disciplinary matters
-* Facilitation/scheduling of conversations with Directors/heads-of, such as
-  Salary Reviews
-
-Bookable slots are available on Wednesdays and Fridays at 11am but the People
-Manager’s door is always open.
-
 #### Line managers
 
 Line management at dxw is not about hierarchy, it’s about providing professional
@@ -2205,6 +2200,111 @@ Feel free to make a copy and alter it according to your own needs.
 Here’s a great article on
 [7 ways to prepare for an effective one-on-one meeting with your manager.](https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/)
 
+#### People and HR Team
+
+The People and HR team is here to support you during your time at dxw. We provide administrative, wellbeing, learning and development, line manager and professional support and guidance.
+
+We have a CIPD Level 5 trained HR People Manager and an administrator to support the HR and Recruitment function - both of whom are Mental Health First Aid trained. We also have an independent HR advisor to provide additional support when needed.
+
+We have a public slack channel for general non-sensitive questions, #help-hr-non-confidential, which is monitored by the team.
+
+We also have a weekly Ask HR slot at 11am on Wednesdays, to provide a regular opportunity to get advice and support. The door is always open though, so you can also always book an ad-hoc slot with the HR People Manager to discuss matters you might not feel able to raise with others in your [support path](https://playbook.dxw.com/#other-support-paths), or that are specialist to the HR function in dxw.
+
+The list is not exhaustive but some topics might include:
+
+* Accessibility
+* Bereavement
+* Contractual matters
+* Diversity
+* Expenses
+* Facilitation/scheduling of conversations with Directors/heads-of
+* Grievance & disciplinary matters
+* Holiday
+* Inclusivity
+* Interpersonal issues
+* Mental health first aid
+* Occupational health issues
+* Pay (second line of support after line managers)
+* Parental leave
+* Probation
+* Pensions
+* Sickness
+* Stress management
+* Training and career progression
+* Working patterns/locations
+
+#### Other support paths
+
+##### Helpers
+
+When you join dxw you will be assigned a helper. This person will work closely
+with you for at least your first 4 months. They will do a similar job to you,
+help you meet members of the wider team, catch up with you on at least a 3/6/12
+week basis to ensure you are receiving everything you need, and will NEVER get
+bored of your questions!
+
+If you feel that you’re not getting as much time with your helper as you’d like,
+please speak to the People Manager.
+
+As a helper, you will be vital in ensuring you have the regular catch ups - if
+you are finding it hard to schedule them, please do talk to Bus Ops.
+
+For more information on being a helper, please see the
+[checklist](https://docs.google.com/document/d/1QPv7Mg7TTlt_OyLRtstAtPQBcId-ct-uTbWqYnso2jI)
+or speak to the People Manager.
+
+##### Buddies
+
+Once you have passed your 4 month probation, we would like you to choose a buddy
+within the company to support you.
+
+We recommend this person **doesn’t** work directly with you, someone in a
+different role and that you don’t work closely with on projects, as this will
+give you a second point of view and a whole new set of experiences to draw on.
+
+This is not mandatory, just recommended and similarly not everyone may wish to
+be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t
+have to be. Also, if you feel that a change of buddy would benefit you for
+whatever reason or that you’re no longer able to be a buddy, this should also
+not be an awkward situation. If you have any concerns, have a chat with the
+People Manager.
+
+The buddy system is there to help us all improve, to make sure we're doing the
+right kind of work and to check that we're dealing with practical problems we're
+facing. It's not line management, so it's not the right place to talk about
+holiday, salary, sickness, absence or anything disciplinary. If you need to talk
+about those things, talk to the People Manager.
+
+If you want to know more about how the buddy system works, how often to meet and
+suggested discussion topics, see the buddy
+[crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing).
+This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet
+up.
+
+##### Your delivery lead (for those on client work)
+
+There will be opportunities within the delivery team to raise any issues or
+concerns you might have e.g. retrospectives or planning sessions. As well as
+this, or if you’d prefer to talk one on one, the delivery lead working on the
+project will be available to provide support and guidance.
+
+##### Directors and heads-of
+
+All members of the Directors and heads-of team are here to help answer any
+questions you might have. Your own Director and/or Head-of profession or
+location is there to provide support on matters relating to dxw and your career
+with us, as well as profession specific questions. Similarly, they are here if
+you need to escalate any job-related concerns.
+
+##### Our Managing Director, Dave
+
+At dxw, all doors are open if you need to raise a concern or just have a chat -
+this includes our MD. Dave is always available to discuss any questions you have
+about the company and its future. Equally, if you feel you need to escalate
+anything to him, don’t hesitate to get in touch. Dave's diary is open and you
+can see it on Google Calendar. If you would like to schedule some time with him,
+please feel free to book something.
+
 #### Learning and Development
 
 Everybody at dxw gets a yearly learning and development allowance of £1,000 and
@@ -2268,78 +2368,6 @@ dxw will pay for the equipment needed to enable you to work comfortably and
 safely. dxw also offers a budget of £25 towards a work backpack. Use the
 help-purchasing Slack channel to request any equipment you need, or talk to
 anyone in business operations if you are unsure if a purchase will be covered.
-
-#### Support paths
-
-##### Helpers
-
-When you join dxw you will be assigned a helper. This person will work closely
-with you for at least your first 4 months. They will do a similar job to you,
-help you meet members of the wider team, catch up with you on at least a 3/6/12
-week basis to ensure you are receiving everything you need, and will NEVER get
-bored of your questions!
-
-If you feel that you’re not getting as much time with your helper as you’d like,
-please speak to the People Manager.
-
-As a helper, you will be vital in ensuring you have the regular catch ups - if
-you are finding it hard to schedule them, please do talk to Bus Ops.
-
-For more information on being a helper, please see the
-[checklist](https://docs.google.com/document/d/1QPv7Mg7TTlt_OyLRtstAtPQBcId-ct-uTbWqYnso2jI)
-or speak to the People Manager.
-
-##### Buddies
-
-Once you have passed your 4 month probation, we would like you to choose a buddy
-within the company to support you.
-
-We recommend this person **doesn’t** work directly with you, someone in a
-different role and that you don’t work closely with on projects, as this will
-give you a second pair of ears and a whole new set of experiences to draw on.
-
-This is not mandatory, just recommended and similarly not everyone may wish to
-be a buddy - don’t be afraid to ask or say no. It can be reciprocal but doesn’t
-have to be. Also, if you feel that a change of buddy would benefit you for
-whatever reason or that you’re no longer able to be a buddy, this should also
-not be an awkward situation. If you have any concerns, have a chat with the
-People Manager.
-
-The buddy system is there to help us all improve, to make sure we're doing the
-right kind of work and to check that we're dealing with practical problems we're
-facing. It's not line management, so it's not the right place to talk about
-holiday, salary, sickness, absence or anything disciplinary. If you need to talk
-about those things, talk to the People Manager.
-
-If you want to know more about how the buddy system works, how often to meet and
-suggested discussion topics, see the buddy
-[crib sheet](https://docs.google.com/document/d/1PBKwPLFsGWUUzeYAObcFLQJyTPknkLhm2HrbuHwxelU/edit?usp=sharing).
-This shouldn’t be a huge time commitment, ideally just a pleasant Friday meet
-up.
-
-##### Your delivery lead (for those on client work)
-
-There will be opportunities within the delivery team to raise any issues or
-concerns you might have e.g. retrospectives or planning sessions. As well as
-this, or if you’d prefer to talk one on one, the delivery lead working on the
-project will be available to provide support and guidance.
-
-##### Directors and heads-of
-
-All members of the Directors and heads-of team are here to help answer any
-questions you might have. Your own Director and/or Head-of profession or
-location is there to provide support on matters relating to dxw and your career
-with us, as well as profession specific questions. Similarly, they are here if
-you need to escalate any job-related concerns.
-
-##### Our Managing Director, Dave
-
-At dxw, all doors are open if you need to raise a concern or just have a chat -
-this includes our MD. Dave is always available to discuss any questions you have
-about the company and its future. Equally, if you feel you need to escalate
-anything to him, don’t hesitate to get in touch. Dave's diary is open and you
-can see it on Google Calendar. If you would like to schedule some time with him,
-please feel free to book something.
 
 ### Hiring new people
 
@@ -3013,7 +3041,7 @@ Designers at dxw follow these principles:
 
    Becoming stuck when solving problems for long periods of time can be
    frustrating and unproductive. We invite each other to ask for our help when
-   these situations happen as a second pair of eyes with a fresh perspective
+   these situations happen as a second point of view with a fresh perspective
    often unlocks a problem relatively quickly.
 
    Code written by teams sprinting on client work is represented in Trello (or
