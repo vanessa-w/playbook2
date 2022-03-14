@@ -957,11 +957,7 @@ and to improve our practices, separate from the clients we work for.
 
 #### Working from home
 
-Generally, we work either at our office or at client sites. But it's usually
-fine to work from home from time to time, or in order to complete a specific
-task. If you're working apart from your team, it is essential that you remain
-contactable and productive, and the onus is on you to be especially
-communicative.
+We are able to work successfully in a remote capacity, from our homes. On occasions, it may be necessary to work from one of our office spaces, a client location or another location approved by dxw  in order to complete a specific task. It is important that you remain contactable and productive. 
 
 #### Reporting your time
 
@@ -1850,16 +1846,7 @@ a phased return to work. If this interests you, please talk to us when applying.
 
 ##### Remote working/location
 
-Generally, we work either at our office or at client sites.
-
-We’re happy to support working from home from a logistical or well-being related
-perspective. While we don’t support fully-remote roles (legacy arrangements
-being the exception), we can look at anything from 1–3 days per week following a
-discussion.
-
-If you need to work from home for a one-off thing then that doesn’t require
-contractual arrangement – just talk about it with your team before the day, make
-sure you note it in your calendar and include it in your standup note that day.
+We are able to work successfully in a remote capacity, from our homes. On occasions, it may be necessary to work from one of our office spaces, a client location or another location approved by dxw  in order to complete a specific task. It is important that you remain contactable and productive. 
 
 ##### Changing your working arrangement
 
@@ -2484,17 +2471,39 @@ Offers are subject to successfully completing eligibility to work in the UK
 checks and a background check including BPSS and BS7858. We need to do this
 vetting due to restrictions in our client contracts.
 
-##### Onboarding and probation
+
+
+### What to expect when joining dxw as an employee
+
+##### Onboarding
+
+After you’ve accepted a role at dxw a member of our HR team will be in touch with you to discuss your laptop, our vetting process and to answer any questions you may have. On your first day you will receive a welcome trello which will tell you who your line manager and helper are, things to read and welcome notes from the team.
+
+##### What your first few days will look like
+
+Below is a rough outline of what to expect from your first two days at dxw.
+
+##### Day 1
+
+* Laptop & password set up (led by a tech team member)
+* Security chat, password chat & sign documents
+* Lunch / Zoom welcome
+* HR welcome chat with Passport & P45 check
+* Meet your manager 
+
+##### Day 2
+
+* Helper welcome chat
+* Half-day of self-led training (including any help with software)
+* Employee led tasks from your Trello 
+
+#### Probation
 
 New starters are subject to a probation period of 4 months with dxw having the
 option to extend by 2 months. Probationary periods go both ways, it is also a
 chance for a new employee to find their feet and dxws way of working. In your
 probation meeting your line manager will share feedback that they have gathered
 from those you have worked with closely.
-
-Onboarding will vary by role and experience. New starters have a checklist they
-follow to guide them through their first few weeks. New starters will be paired
-with a [helper](https://playbook.dxw.com/#support-paths) from their first day.
 
 #### Returners' programme
 
