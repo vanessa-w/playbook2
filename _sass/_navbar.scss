@@ -25,7 +25,7 @@ $height: 70px; // Manually measured after layout.
     }
   }
 
-  [role="menubar"] {
+  > ul {
     margin: 1em;
     padding: 0;
     display: flex;
@@ -41,8 +41,8 @@ $height: 70px; // Manually measured after layout.
     }
   }
 
-  [role="menu"] {
-    .guides {
+  .navbar__menu {
+    [role="menu"] {
       display: none;
       position: absolute;
       top: 2.5em;
@@ -74,7 +74,7 @@ $height: 70px; // Manually measured after layout.
 
     &:hover,
     &:focus-within {
-      .guides {
+      [role="menu"] {
         display: block;
       }
     }
