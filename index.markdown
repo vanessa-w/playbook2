@@ -1322,9 +1322,9 @@ The following principles underpin the policy:
 
 ##### Cost of living
 
-10. London weighting of £4,000 per year applies to staff who earn under £40,000
-    per year to help them with the additional costs of living in London.
-     * This applies to people who live in a London borough.
+10. London weighting of £4,000 per year applies to staff who earn under £40,000 per year to help them with the additional costs of living in London.
+
+    * This applies to people who live in a London borough.
     * If someone’s salary increases above this level, London weighting will
   gradually taper off (by £500 for each £1000 of extra salary) between £40,000
   and £48,000
@@ -1333,8 +1333,7 @@ The following principles underpin the policy:
     * It is subject to tax & NI and is not pensionable
     * It is a fixed rate, not uplifted by CPI
 
-11. Annual cost of living CPI rises will apply for staff if the company achieves
-    turnover above its minimum target for the preceding financial year.
+11. Annual cost of living CPI rises will apply for staff if the company achieves turnover above its minimum target for the preceding financial year.
 
     * If you’ve passed your probation then you’ll receive your raise in October
   payroll
