@@ -1592,7 +1592,7 @@ compassionate leave. They should consult their Director for approval if they
 think further paid leave may be appropriate in the circumstances.
 
 Our automatic parental bereavement entitlement is 2 weeks of paid leave, as set
-out by[ ACAS](https://www.acas.org.uk/time-off-for-bereavement/parental-bereavement-leave-pay).
+out by [ACAS](https://www.acas.org.uk/time-off-for-bereavement/parental-bereavement-leave-pay).
 
 There is the option for additional time off to be taken using annual or unpaid
 leave. This should be agreed between the line manager and Director, in
