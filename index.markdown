@@ -1326,24 +1326,22 @@ The following principles underpin the policy:
 
     * This applies to people who live in a London borough.
     * If someone’s salary increases above this level, London weighting will
-  gradually taper off (by £500 for each £1000 of extra salary) between £40,000
-  and £48,000
+      gradually taper off (by £500 for each £1000 of extra salary) between £40,000
+      and £48,000
     * The rationale for these numbers is taken from Trust for London research which
-  shows London weighting materially benefits people on salaries under £40,000.
+      shows London weighting materially benefits people on salaries under £40,000.
     * It is subject to tax & NI and is not pensionable
     * It is a fixed rate, not uplifted by CPI
-
 11. Annual cost of living CPI rises will apply for staff if the company achieves turnover above its minimum target for the preceding financial year.
 
     * If you’ve passed your probation then you’ll receive your raise in October
-  payroll
+      payroll
     * CPI rises will not apply to people who for historic reasons are above the
-  maximum pay level for their role, to help us gradually align salaries for
-  similar roles
+      maximum pay level for their role, to help us gradually align salaries for
+      similar roles
     * If someone is under formal disciplinary or performance procedures, their CPI
-  rise will be postponed while this is ongoing
+      rise will be postponed while this is ongoing
     * The CPI figure comes from published Office of National Statistics data
-
 12. We are committed to paying the London living wage or higher for all staff.
 
 #### Cost of living raise
@@ -1465,7 +1463,7 @@ they know when to expect to hear from you.
 When you return to work, you must check your sickness has been correctly
 recorded in BreatheHR, update it if necessary and mark yourself as returned to
 work. Your line manager will then review and close the sick leave. If you're
-sick for more than 7 calendar days in a row, you'll also need to provide a
+sick for more than 28 calendar days in a row, you'll also need to provide a
 doctor's note.
 
 ##### Absence meetings
@@ -1580,8 +1578,29 @@ the HR team know, so we can support you in the right way. If you are on a
 project, we can then work with your delivery lead to manage the impact on the
 team.
 
-To record the compassionate leave in BreatheHR, choose Other as the Type of
-Leave, and choose Compassionate as the Reason.
+Compassionate leave is likely to affect many of us at some time or other, in
+many different ways. Typically compassionate leave covers things like
+bereavement or the sudden illness of close relatives and friends. But we
+understand that loss can manifest itself in other forms which can affect your
+wellbeing.
+
+This policy aims to set some guidance for line managers while also allowing
+reasonable flexibility to reflect different circumstances.
+
+In the first instance, line managers can allow up to 3 days of paid
+compassionate leave. They should consult their Director for approval if they
+think further paid leave may be appropriate in the circumstances.
+
+Our automatic parental bereavement entitlement is 2 weeks of paid leave, as set
+out by [ACAS](https://www.acas.org.uk/time-off-for-bereavement/parental-bereavement-leave-pay).
+
+There is the option for additional time off to be taken using annual or unpaid
+leave. This should be agreed between the line manager and Director, in
+consultation with HR. We can also provide support for people returning to work
+in line with our existing policies.
+
+To record compassionate leave in BreatheHR, choose Other as the Type of Leave,
+and choose Compassionate as the Reason.
 
 #### Parental leave
 
