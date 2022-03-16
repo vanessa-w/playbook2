@@ -1351,8 +1351,7 @@ percentage will be set by the
 [CPI Index](https://www.ons.gov.uk/economy/inflationandpriceindices) as of 1st
 October each year.
 
-* The raise will be conditional upon the company meeting financial targets
-  during the financial year ending in June.
+* Annual cost of living CPI rises will apply for staff if the company achieves turnover above its minimum target for the preceding financial year.
 * If you have passed your probation, you will receive your raise in the October
   payroll.
 * For those team members who joined prior to 1st October of that year, but
